@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAVORITES</title>
+    <link rel="icon" href="/html logo.png"
+</head>
+<body>
+    <h1> MY MULTIMEDIA by TAP ACADEMY ™</h1>
+    <h2>MY FAVOURITE SONGS</h2>
+    <h3>Song 1🎧</h3>
+    <audio src="./Satranga (Animal)-(Mr-Jat.in).mp3" controls></audio>
+    <h3>Song 2🎧</h3>
+    <audio src="./3-Sirivennala.mp3" controls></audio>
+    <h3>Song 3🎧</h3>
+    <audio src="./Perfect-(Mr-Jat.in).mp3" controls></audio>
+    <h1>MY FAVOURITE FILMS</h1>
+    <h2>1.RRR</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg" alt="NOT FOUND" height="450px" width="300px"/>
+    <video src="/RRR Trailer (Telugu).mp4" controls height="450px" width="300px" poster="https://www.theroxytheater.org/wp-content/uploads/2022/05/rrr20again.jpg"></video>
+    <p>RRR is a 2022 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the screenplay with V. Vijayendra Prasad.[9] Produced by D. V. V. Danayya under DVV Entertainment, the film stars N. T. Rama Rao Jr. and Ram Charan as fictionalised versions of Indian revolutionaries Komaram Bheem and Alluri Sitarama Raju, respectively. It also features Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody and Olivia Morris in supporting roles. It marks the Telugu film debuts of Devgn, Bhatt, Stevenson, Doody and Morris. The film is a fictionalised tale of two historical freedom fighters, set in the Indian pre-independence era.</p>
+    <h2>2.Animal</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg" alt="NOT FOUND" height="450px" width="300px"/>
+    <video src="/ANIMAL (Telugu Official Trailer).mp4" controls height="450px" width="300px" poster="https://akhilpillai.com/wp-content/uploads/2024/01/IMAGE_1701256756-1024x576.webp"></video>
+    <p>Animal is a 2023 Indian Hindi-language action drama film[1][5] co-written, directed and edited by Sandeep Reddy Vanga and jointly produced by T-Series Films, Bhadrakali Pictures and Cine1 Studios. The film stars Ranbir Kapoor in dual roles, alongside Anil Kapoor, Bobby Deol, Rashmika Mandanna and Triptii Dimri. It explores the troubled relationship between Ranvijay Singh and his father, Balbir Singh, a powerful industrialist. After spending years abroad he returns home and embarks on a ruthless quest for vengeance after an assassination attempt on his father.</p>
+    <h2>3.Sita Ramam</h2>
+    <img src="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sita-ramam-et00329656-30-05-2022-06-32-41.jpg" alt="NOT FOUND" height="450px" width="300px"/>
+    <video src="/ANIMAL (Telugu Official Trailer).mp4" controls height="450px" width="300px" poster="https://i.ytimg.com/vi/Ljk6tGZ1l3A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhg1JM9nGhe7lXcBxUZYCDup3D5A"></video>
+    <p>Sita Ramam is a 2022 Indian Telugu-language period romantic drama film directed by Hanu Raghavapudi, who co-wrote the screenplay with Raj Kumar Kandamudi. Produced by C. Aswini Dutt under the banners of Vyjayanthi Movies and Swapna Cinema, the film stars Dulquer Salmaan and Mrunal Thakur in the titular roles, alongside Rashmika Mandanna,Sumanth Vennela Kishore, and Sunil in supporting roles.</p>
+</body>
+
+</html>
